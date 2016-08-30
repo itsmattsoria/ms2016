@@ -1,0 +1,38 @@
+// Typography
+
+@import 'https://fonts.googleapis.com/css?family=Space+Mono:400,700';
+
+// Fonts
+$mono: 'Space Mono', monospace;
+$serif: "freight-display-pro", Georgia, serif;
+
+// FOUT Killer
+h1,h2,h3,h4,h5,h6,p,li,a {
+  transition: opacity 350ms ease-out;
+}
+.wf-loading {
+  h1,h2,h3,h4,h5,h6,p,li,a {
+    opacity: 0!important;
+  }
+}
+
+.font-display {
+  font-weight: 900;
+  font-family: $serif;
+  letter-spacing: -.02em;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern" 1;
+  font-kerning: auto;
+}
+
+.h1 {
+  line-height: 1;
+  font-size: 60px;
+  @extend .font-display;
+}
+
+.h2 {
+  font-size: 32px;
+  line-height: 1.25;
+  @extend .font-display;
+}

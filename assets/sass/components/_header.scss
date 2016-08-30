@@ -1,0 +1,59 @@
+// Header
+
+.site-header {
+  height: 80vh;
+  display: flex;
+  overflow: hidden;
+  max-height: 600px;
+  position: relative;
+  margin-bottom: 60px;
+  padding-bottom: 60px;
+  align-items: flex-end;
+  background-size: cover;
+  background-position: center center;
+
+  .wrap {
+    z-index: 2;
+    position: relative;
+  }
+
+  h1 {
+    margin: 0;
+    opacity: 0;
+    font-size: 60px;
+    &.-animate {
+      animation: fadeInLeft 2s forwards;
+    }
+  }
+
+  h2 {
+    opacity: 0;
+    font-size: 20px;
+    margin: .5em 0 0;
+    font-family: $mono;
+    font-weight: normal;
+    &.-animate { 
+      animation: fadeInLeft 2s .5s forwards;
+    }
+  }
+
+  @include media-md {
+    height: 70vh;
+    display: flex;
+    margin-bottom: 120px;
+
+    .wrap {
+      margin: auto;
+      align-items: flex-start;
+    }
+  }
+}
+
+.header-gradient {
+  left: 0;
+  bottom: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}

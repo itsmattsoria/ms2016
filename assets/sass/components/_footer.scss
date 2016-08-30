@@ -1,0 +1,54 @@
+// Footer
+
+.site-footer {
+  @extend .font-display;
+  margin-top: 120px;
+  padding-bottom: 120px;
+  .wrap {
+    padding-top: 30px;
+    position: relative;
+    &::before {
+      top: 0;
+      left: 30px;
+      right: 30px;
+      content: '';
+      height: 1px;
+      position: absolute;
+      border-top: 1px solid;
+    }
+    @include media-md {
+      &::before {
+        left: 60px;
+        right: 60px;
+      }
+    }
+  }
+
+  .social {
+    margin: 0;
+    padding: 0;
+    li {
+      list-style: none;
+      margin-left: 10px;
+      display: inline-block;
+      &:first-of-type {
+        margin-left: 0;
+      }
+    }
+    a:hover {
+      text-decoration: line-through;
+    }
+  }
+
+  @include media-md {
+    @include clearfix;
+    .social {
+      float: left;
+    }
+    .copyright {
+      margin: 0;
+      float: right;
+      padding-left: 30px; 
+    }
+  }
+}

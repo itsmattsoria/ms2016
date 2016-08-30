@@ -1,0 +1,99 @@
+//base styles
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  color: $black;
+  font-size: 16px;
+  background: #000;
+  font-family: $mono;
+  &.loading {
+    &::before {
+      top: 50%;
+      left: 50%;
+      z-index: 10;
+      width: 50px;
+      content: '';
+      height: 50px;
+      position: fixed;
+      border-radius: 50%;
+      border-right: 2px solid $tan;
+      border-bottom: 2px solid $tan;
+      animation: spin .5s linear infinite;
+      transform: translate(-50%, -50%) rotate(0);
+    }
+    .site-background {
+      background: #000;
+    }
+    .site-container {
+      opacity: 0;
+    }
+  }
+}
+
+.site-container {
+  opacity: 1;
+  transition: opacity 1s ease-out;
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 0;
+  @extend .font-display;
+}
+
+h1 {
+  @extend .h1;
+}
+
+h2 {
+  @extend .h2;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.25em;
+  a {
+    font-weight: 700;
+    &:hover {
+      font-style: italic;
+    }
+  }
+}
+
+strong {
+  font-weight: 700;
+}
+
+a {
+	color: inherit;
+}
+
+img {
+  height: auto;
+	max-width: 100%;
+}
+
+.wrap {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 30px;
+  max-width: 960px; // change to whatever 
+  position: relative;
+  @include clearfix();
+  @include media-md {
+    padding: 0 60px;
+  }
+}
+
+*[contenteditable=true] {
+  &:focus {
+    outline: 1px dashed;
+  }
+}
