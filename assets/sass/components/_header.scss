@@ -21,6 +21,9 @@
     margin: 0;
     opacity: 0;
     font-size: 60px;
+    a {
+      text-decoration: none;
+    }
     &.-animate {
       animation: fadeInLeft 2s forwards;
     }

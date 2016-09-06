@@ -1,0 +1,15 @@
+// Internal pages.
+
+.page.internal {
+  .site-header {
+    height: 20vh;
+
+    .header-gradient {
+      height: 150%;
+    }
+
+    @include media-md {
+      margin-bottom: 60px;
+    }
+  }
+}

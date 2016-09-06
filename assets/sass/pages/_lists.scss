@@ -1,0 +1,12 @@
+// Lists Page
+
+.page.lists {
+  ol {
+    li {
+      margin-top: .5em;
+      &:first-of-type {
+        margin-top: 0;
+      }
+    }
+  }
+}
