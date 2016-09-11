@@ -673,11 +673,11 @@ img {
 }
 .site-footer .social li {
   list-style: none;
-  margin-left: 10px;
+  margin-right: 10px;
   display: inline-block;
 }
-.site-footer .social li:first-of-type {
-  margin-left: 0;
+.site-footer .social li:last-of-type {
+  margin-right: 0;
 }
 .site-footer .social a:hover {
   text-decoration: line-through;
@@ -886,4 +886,7 @@ section ul {
 }
 .page.lists ol li:first-of-type {
   margin-top: 0;
+}
+.page.lists ol li a:hover, .page.lists ol li a:focus {
+  font-style: italic;
 }
