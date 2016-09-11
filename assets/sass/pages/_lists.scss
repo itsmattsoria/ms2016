@@ -7,6 +7,12 @@
       &:first-of-type {
         margin-top: 0;
       }
+      a {
+        &:hover,
+        &:focus {
+          font-style: italic;
+        }
+      }
     }
   }
 }

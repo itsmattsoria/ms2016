@@ -728,11 +728,6 @@ section ol {
   margin: 0;
   padding: 0;
 }
-section ul a:hover, section ul a:focus,
-section ol a:hover,
-section ol a:focus {
-  font-style: italic;
-}
 section ol {
   counter-reset: list-counter;
 }
