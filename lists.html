@@ -14,6 +14,8 @@
     <meta property="og:description" content="Chicago-based Web Developer & Photographer" />
     <link rel="shortcut icon" type="image/ico" href="assets/images/favicon.png">
 
+    <link rel="stylesheet" href="assets/css/main.min.css">
+
     <script>
       (function(d) {
         var config = {
@@ -24,8 +26,7 @@
         h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
       })(document);
     </script>
-
-    <link rel="stylesheet" href="assets/css/main.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Space+Mono:400,700" rel="stylesheet">
   </head>
   <body class="lists page loading internal">
     <div class="site-background">
@@ -45,7 +46,7 @@
             </div>
           </section>
 
-          <section>
+          <section id="movies-to-watch">
             <div class="wrap -text">
               <h3 class="section-title">Movies To Watch</h3>
               <ul>
@@ -55,18 +56,40 @@
             </div>
           </section>
 
-          <section>
+          <section id="top-10-horror-movies">
             <div class="wrap -text">
-              <h3 class="section-title">Top 100 Albums</h3>
+              <h3 class="section-title">Top 10 Favorite Horror Movies</h3>
+              <ol>
+                <li><a href="http://www.imdb.com/title/tt0077651/?ref_=nv_sr_3" target="_blank">Halloween</a> (1978) — John Carpenter</li>
+                <li><a href="http://www.imdb.com/title/tt0081505/?ref_=nv_sr_1" target="_blank">The Shining</a> (1980) — Stanley Kubrik</li>
+                <li><a href="http://www.imdb.com/title/tt0076786/?ref_=nv_sr_2" target="_blank">Susperia</a> (1977) — Dario Argento</li>
+                <li><a href="http://www.imdb.com/title/tt0054215/?ref_=nv_sr_1" target="_blank">Psycho</a> (1960) — Alfred Hitchcock</li>
+                <li><a href="http://www.imdb.com/title/tt0072271/?ref_=fn_al_tt_3" target="_blank">The Texas Chainsaw Massacre</a> (1974) — Tobe Hooper</li>
+                <li><a href="http://www.imdb.com/title/tt0070047/?ref_=nv_sr_1" target="_blank">The Exorcist</a> (1973) — William Friedkin</li>
+                <li><a href="http://www.imdb.com/title/tt0093177/?ref_=nv_sr_1" target="_blank">Hellraiser</a> (1987) — Clive Barker</li>
+                <li><a href="http://www.imdb.com/title/tt0102926/?ref_=nv_sr_1" target="_blank">The Silence of the Lambs</a> (1991) — Jonathan Demme</li>
+                <li><a href="http://www.imdb.com/title/tt0078767/?ref_=nv_sr_2" target="_blank">The Amityville Horror</a> (1979) — Stuart Rosenberg</li>
+                <li><a href="http://www.imdb.com/title/tt0063350/?ref_=nv_sr_2" target="_blank">Night Of The Living Dead</a> (1968) — George A. Romero</li>
+              </ol>
+            </div>
+          </section>
+
+          <section id="top-100-albums">
+            <div class="wrap -text">
+              <h3 class="section-title">Top 100 Favorite Albums</h3>
               <p>[In alphabetical order]</p>
               <ol>
+                <li><em>...and then you shoot your cousin</em> — The Roots</li>
                 <li><em>13</em> — Blur</li>
                 <li><em>2001</em> — Dr. Dre</li>
                 <li><em>A Charlie Brown Christmas</em> — Vince Guaraldi</li>
+                <li><em>A Trick Of The Tail</em> — Genesis</li>
                 <li><em>Abbey Road</em> — The Beatles</li>
                 <li><em>Absolution</em> — Muse</li>
                 <li><em>Agaetis Byrjun</em> — Sigur Ros</li>
                 <li><em>Aja</em> — Steely Dan</li>
+                <li><em>All Hail Bright Futures</em> — And So I Watch You From Afar</li>
+                <li><em>Amputechture</em> — The Mars Volta</li>
                 <li><em>Black Radio</em> — Robert Glasper Experiment</li>
                 <li><em>Californication</em> — Red Hot Chili Peppers</li>
                 <li><em>Children's Song</em> — Chick Corea</li>
@@ -77,10 +100,12 @@
                 <li><em>Duke Ellington & John Coltrane</em> — Duke Ellington & John Coltrane</li>
                 <li><em>Enter</em> — Russian Circles</li>
                 <li><em>Giant Robot</em> — Buckethead</li>
+                <li><em>Giant Steps</em> — John Coltrane</li>
                 <li><em>Grand Opening And Closing</em> — Sleepytime Gorilla Museum</li>
                 <li><em>Hail To The Thief</em> — Radiohead</li>
                 <li><em>Head Hunters</em> — Herbie Hancock</li>
                 <li><em>Healing</em> — Todd Rundgren</li>
+                <li><em>Hotter Than July</em> — Stevie Wonder</li>
                 <li><em>Houses Of The Holy</em> — Led Zeppelin</li>
                 <li><em>Hurry Up, We're Dreaming</em> — M83</li>
                 <li><em>Ill Communication</em> — Beastie Boys</li>
@@ -89,12 +114,15 @@
                 <li><em>Into The Wild</em> — Eddie Vedder</li>
                 <li><em>Issues</em> — Korn</li>
                 <li><em>Jagged Little Pill</em> — Alanis Morissette</li>
+                <li><em>L.D. 50</em> — Mudvayne</li>
                 <li><em>Language</em> — The Contortionist</li>
                 <li><em>Lateralus</em> — Tool</li>
                 <li><em>Liberation Afro Beat, Vol. 1</em> — Antibalas</li>
                 <li><em>Life After Death</em> — The Notorious B.I.G.</li>
                 <li><em>Lupe Fiasco's Food & Liquor</em> — Lupe Fiasco</li>
                 <li><em>Maggot Brain</em> — Funkadelic</li>
+                <li><em>Maiden Voyage</em> — Herbie Hancock</li>
+                <li><em>Me Against The World</em> — 2Pac</li>
                 <li><em>Mellon Collie And The Infinite Sadness</em> — Smashing Pumpkins</li>
                 <li><em>Midnight Marauders</em> — A Tribe Called Quest</li>
                 <li><em>Minecraft - Volume Beta</em> — C418</li>
@@ -106,6 +134,7 @@
                 <li><em>Pet Sounds</em> — The Beach Boys</li>
                 <li><em>Pieces of a Man</em> — Gil Scott-Heron</li>
                 <li><em>Pinkerton</em> — Weezer</li>
+                <li><em>Preemptive Strike</em> — DJ Shadow</li>
                 <li><em>Pretty Hate Machine</em> — Nine Inch Nails</li>
                 <li><em>Rage Against The Machine</em> — Rage Against The Machine</li>
                 <li><em>Remember Shakti</em> — John McLaughlin & Shakti</li>
@@ -120,23 +149,31 @@
                 <li><em>Straight, No Chaser</em> — Thelonious Monk</li>
                 <li><em>Superfly</em> — Curtis Mayfield</li>
                 <li><em>Supertrios</em> — McCoy Tyner</li>
+                <li><em>Suspiria</em> — Goblin</li>
                 <li><em>System Of A Down</em> — System Of A Down</li>
+                <li><em>The Battle Of Los Angeles</em> — Rage Against The Machine</li>
                 <li><em>The Beyond / Where the Giants Roam</em> — Thundercat</li>
                 <li><em>The Burden of Hope</em> — Grails</li>
                 <li><em>The Devil and God Are Raging Inside...</em> — Brand New</li>
+                <li><em>The Meters</em> — The Meters</li>
                 <li><em>The Miseducation of Lauryn Hill</em> — Miss Lauryn Hill</li>
                 <li><em>The Suburbs</em> — Arcade Fire</li>
                 <li><em>The Trials of Van Occupanther</em> — Midlake</li>
                 <li><em>This Binar Universe</em> — BT</li>
+                <li><em>Time For Tyner</em> — McCoy Tyner</li>
+                <li><em>Time Out</em> — Dave Brubeck Quartet</li>
                 <li><em>TNT</em> — Tortoise</li>
                 <li><em>To Pimp a Butterfly</em> — Kendrick Lamar</li>
+                <li><em>Twentysomething</em> — Jamie Cullum</li>
                 <li><em>Vior Dire</em> — Minor Characters</li>
                 <li><em>Visual Audio Sensory Theater</em> — Vast</li>
+                <li><em>Voy Y Vuelvo</em> — Nano Stern</li>
                 <li><em>Weezer (Blue Album)</em> — Weezer</li>
                 <li><em>What's Going On</em> — Marvin Gaye</li>
                 <li><em>When The Pawn...</em> — Fiona Apple</li>
                 <li><em>White Pony</em> — Deftones</li>
                 <li><em>Woodstock Sessions, Vol. 4</em> — Team Sleep</li>
+                <li><em>Workin'</em> — Miles Davis Quintet</li>
                 <li><em>Yessongs</em> — Yes</li>
                 <li><em>Yo! Bum Rush The Show</em> — Public Enemy</li>
                 <li><em>Zombie</em> — Fela Kuti & The Africa 70</li>
