@@ -3,9 +3,19 @@
 .page.internal {
   .site-header {
     height: 20vh;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
 
     .header-gradient {
       height: 150%;
+    }
+
+    h1 {
+      font-size: 22px;
+    }
+    h2 {
+      font-size: 12px;
     }
 
     @include media-md {

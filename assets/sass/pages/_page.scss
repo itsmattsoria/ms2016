@@ -27,6 +27,9 @@ section {
   ol {
     margin: 0;
     padding: 0;
+    li {
+      margin-bottom: 1em;
+    }
   }
 
   ol {
@@ -35,7 +38,7 @@ section {
       list-style: none;
       position: relative;
       &::before {
-        bottom: 0;
+        top: 1px;
         right: 100%;
         font-weight: 700;
         font-size: .75em;

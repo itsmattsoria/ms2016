@@ -5,7 +5,6 @@
 /**
  * Correct `block` display not defined in IE 8/9.
  */
-@import "https://fonts.googleapis.com/css?family=Space+Mono:400,700";
 article,
 aside,
 details,
@@ -728,6 +727,10 @@ section ol {
   margin: 0;
   padding: 0;
 }
+section ul li,
+section ol li {
+  margin-bottom: 1em;
+}
 section ol {
   counter-reset: list-counter;
 }
@@ -736,7 +739,7 @@ section ol li {
   position: relative;
 }
 section ol li::before {
-  bottom: 0;
+  top: 1px;
   right: 100%;
   font-weight: 700;
   font-size: .75em;
@@ -871,9 +874,18 @@ section ul {
 
 .page.internal .site-header {
   height: 20vh;
+  padding-top: 30px;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
 }
 .page.internal .site-header .header-gradient {
   height: 150%;
+}
+.page.internal .site-header h1 {
+  font-size: 22px;
+}
+.page.internal .site-header h2 {
+  font-size: 12px;
 }
 @media screen and (min-width: 700px) {
   .page.internal .site-header {
