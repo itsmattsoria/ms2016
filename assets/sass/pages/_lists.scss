@@ -15,4 +15,12 @@
       }
     }
   }
+
+  li {
+    &.completed {
+      a {
+        text-decoration: line-through;
+      }
+    }
+  }
 }
