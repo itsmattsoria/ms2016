@@ -58,7 +58,8 @@ h2 {
 
 p {
   font-size: 1em;
-  line-height: 1.25em;
+  line-height: 1.25;
+  margin: $vertical-beat 0;
   a {
     font-weight: 700;
     &:hover {

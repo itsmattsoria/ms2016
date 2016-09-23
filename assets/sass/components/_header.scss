@@ -20,7 +20,7 @@
   h1 {
     margin: 0;
     opacity: 0;
-    font-size: 60px;
+    font-size: 72px;
     a {
       text-decoration: none;
     }
@@ -31,10 +31,11 @@
 
   h2 {
     opacity: 0;
+    line-height: 1;
     font-size: 20px;
-    margin: .5em 0 0;
     font-family: $mono;
     font-weight: normal;
+    margin: $vertical-beat 0 0;
     &.-animate { 
       animation: fadeInLeft 2s .5s forwards;
     }

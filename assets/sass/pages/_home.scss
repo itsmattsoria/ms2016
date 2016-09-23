@@ -16,7 +16,8 @@
         margin: 0;
         right: 30px;
         bottom: 30px;
-        font-size: 8px;
+        line-height: 1;
+        font-size: 10px;
         position: absolute;
         color: rgba($tan,.5);
       }
@@ -63,7 +64,7 @@
       li {
         list-style: none;
         break-inside: avoid;
-        padding-bottom: 20px;
+        padding-bottom: $vertical-beat;
         h4 {
           margin: 0;
           font-size: 24px;
@@ -75,29 +76,30 @@
             text-decoration: none;
             &:hover {
               span::after {
-                border-bottom: 34px solid;
+                border-bottom: 20px solid;
                 mix-blend-mode: exclusion;
               }
             }
 
             span {
               position: relative;
+              display: inline-block;
               &::after {
                 left: 0;
                 right: 0;
                 z-index: 1;
                 content: '';
-                bottom: -2px;
-                height: 34px;
+                bottom: 5px;
+                height: 20px;
                 position: absolute;
-                border-bottom: 2px solid;
+                border-bottom: 1px solid;
                 transition: border .1s ease-out;
               }
             }
           }
         }
         p {
-          margin: .5em 0 0;
+          margin: $vertical-beat 0 0;
         }
       }
     }
