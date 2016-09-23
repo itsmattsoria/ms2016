@@ -715,6 +715,9 @@ img {
 section {
   margin: 30px 0;
 }
+section .section-title a {
+  text-decoration: none;
+}
 section .section-title::after {
   content: '';
   height: 1px;
