@@ -404,7 +404,7 @@ h3, .site-footer, .page.home section.recent-work ul li h4 {
 .h2, h2, .site-main h3 {
   font-size: 32px;
   line-height: 1.25;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 @-webkit-keyframes fadeInLeft {
@@ -717,6 +717,27 @@ img {
 
 section {
   margin: 30px 0;
+}
+section.has-anchor .section-title {
+  position: relative;
+}
+section.has-anchor .section-title .section-anchor {
+  top: 0;
+  opacity: 0;
+  right: 100%;
+  position: absolute;
+  padding-right: 20px;
+  pointer-events: none;
+  -webkit-transition: opacity .2s ease-out;
+          transition: opacity .2s ease-out;
+}
+section.has-anchor .section-title .section-anchor:hover {
+  opacity: 1;
+  pointer-events: auto;
+}
+section.has-anchor .section-title:hover .section-anchor {
+  opacity: 1;
+  pointer-events: auto;
 }
 section .section-title {
   border-bottom: 1px solid;

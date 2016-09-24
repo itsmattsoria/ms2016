@@ -978,8 +978,7 @@ return b?(parseFloat(Sa(a,"marginLeft"))||(n.contains(a.ownerDocument,a)?a.getBo
 })(jQuery);
 var Main = (function($) {
 
-  var $document,
-      loadingTimer;
+  var $document;
 
   function _init() {
     // touch-friendly fast clicks
@@ -991,41 +990,22 @@ var Main = (function($) {
 
     // Init functions
     _initColorScheme();
-
-    // Smoothscroll links
-    $('a.smoothscroll').click(function(e) {
-      e.preventDefault();
-      var href = $(this).attr('href');
-      _scrollBody($(href));
-    });
+    _initPageAnchors();
 
   } // end init()
 
-  function _scrollBody(element, duration, delay) {
-    if ($('#wpadminbar').length) {
-      wpOffset = $('#wpadminbar').height();
-    } else {
-      wpOffset = 0;
-    } 
-    element.velocity("scroll", {
-      duration: duration,
-      delay: delay,
-      offset: -wpOffset
-    }, "easeOutSine");
-  }
-
   function _initColorScheme() {
     $.adaptiveBackground.run({
-      parent:               'body',
-      exclude:              [ 'rgb(0,0,0)', 'rgba(255,255,255)' ],
+      parent: 'body',
+      exclude: [ 'rgb(0,0,0)', 'rgba(255,255,255)' ],
       normalizeTextColor:   true,
       normalizedTextColors:  {
-        light:      "#f8e5c9",
-        dark:       "#4f433c"
+        light: "#f8e5c9",
+        dark: "#4f433c"
       },
       lumaClasses:  {
-        light:      "ab-light",
-        dark:       "ab-dark"
+        light: "ab-light",
+        dark: "ab-dark"
       },
       success: function($img, data) {
         var colorSchemePrimary = data.color;
@@ -1038,15 +1018,21 @@ var Main = (function($) {
         }, 1000);
       }
     });
+  }
 
+  function _initPageAnchors() {
+    $('section').each(function() {
+      if ($(this)[0].hasAttribute('id')) {
+        $(this).addClass('has-anchor');
+
+        $(this).find('.section-title').append('<a class="section-anchor" href="'+ document.URL.replace(/#.*$/, "") + '#' + $(this).attr('id')+'">#</a>');
+      }
+    });
   }
 
   // Public functions
   return {
-    init: _init,
-    scrollBody: function(section, duration, delay) {
-      _scrollBody(section, duration, delay);
-    }
+    init: _init
   };
 
 })(jQuery);

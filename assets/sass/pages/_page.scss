@@ -13,6 +13,32 @@
 
 section {
   margin: #{$vertical-beat * 3} 0;
+
+  &.has-anchor {
+    .section-title {
+      position: relative;
+      .section-anchor {
+        top: 0;
+        opacity: 0;
+        right: 100%;
+        position: absolute;
+        padding-right: 20px;
+        pointer-events: none;
+        transition: opacity .2s ease-out;
+        &:hover {
+          opacity: 1;
+          pointer-events: auto;
+        }
+      }
+      &:hover {
+        .section-anchor {
+          opacity: 1;
+          pointer-events: auto;
+        }
+      }
+    }
+  }
+
   .section-title {
     border-bottom: 1px solid;
     a {
