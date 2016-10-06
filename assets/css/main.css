@@ -913,6 +913,9 @@ section ul {
   font-size: 12px;
 }
 
+.page.lists .description {
+  margin-bottom: 30px;
+}
 .page.lists ol li {
   margin-top: .5em;
 }

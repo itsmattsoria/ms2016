@@ -1,6 +1,11 @@
 // Lists Page
 
 .page.lists {
+
+  .description {
+    margin-bottom: #{$vertical-beat * 3};
+  }
+
   ol {
     li {
       margin-top: .5em;
