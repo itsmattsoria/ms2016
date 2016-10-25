@@ -515,8 +515,8 @@ body.loading .site-container {
 
 .site-container {
   opacity: 1;
-  -webkit-transition: opacity 1s ease-out;
-          transition: opacity 1s ease-out;
+  -webkit-transition: opacity .5s ease-out;
+          transition: opacity .5s ease-out;
 }
 
 h1,
@@ -527,8 +527,8 @@ h3 {
 
 p {
   font-size: 1em;
-  line-height: 1.25;
-  margin: 10px 0;
+  line-height: 1.875;
+  margin: 20px 0;
 }
 p a {
   font-weight: 700;
@@ -606,8 +606,8 @@ img {
   text-decoration: none;
 }
 .site-header h1.-animate {
-  -webkit-animation: fadeInLeft 2s forwards;
-          animation: fadeInLeft 2s forwards;
+  -webkit-animation: fadeInLeft 1s forwards;
+          animation: fadeInLeft 1s forwards;
 }
 .site-header h2 {
   opacity: 0;
@@ -618,8 +618,8 @@ img {
   margin: 10px 0 0;
 }
 .site-header h2.-animate {
-  -webkit-animation: fadeInLeft 2s .5s forwards;
-          animation: fadeInLeft 2s .5s forwards;
+  -webkit-animation: fadeInLeft 1s .25s forwards;
+          animation: fadeInLeft 1s .25s forwards;
 }
 @media screen and (min-width: 700px) {
   .site-header {
@@ -707,16 +707,13 @@ img {
   }
 }
 
-.site-main {
+section {
   opacity: 0;
+  margin: 30px 0;
 }
-.site-main.-animate {
+section.-animate {
   -webkit-animation: fadeInBottom 1s forwards .5s;
           animation: fadeInBottom 1s forwards .5s;
-}
-
-section {
-  margin: 30px 0;
 }
 section.has-anchor .section-title {
   position: relative;
@@ -812,8 +809,9 @@ section ul {
   margin-top: 0;
 }
 .page.home section.about .wrap.-text p.-intro {
-  font-weight: 700;
   font-size: 20px;
+  line-height: 1.5;
+  font-weight: 700;
 }
 @media screen and (min-width: 700px) {
   .page.home section.about {
@@ -863,6 +861,11 @@ section ul {
           break-inside: avoid;
   padding-bottom: 10px;
 }
+@media screen and (min-width: 700px) {
+  .page.home section.recent-work ul li {
+    padding-bottom: 20px;
+  }
+}
 .page.home section.recent-work ul li h4 {
   margin: 0;
   font-size: 24px;
@@ -894,7 +897,7 @@ section ul {
           transition: border .1s ease-out;
 }
 .page.home section.recent-work ul li p {
-  margin: 10px 0 0;
+  margin: 0;
 }
 
 .page.internal .site-header {

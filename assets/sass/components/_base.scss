@@ -38,7 +38,7 @@ body {
 
 .site-container {
   opacity: 1;
-  transition: opacity 1s ease-out;
+  transition: opacity .5s ease-out;
 }
 
 h1,
@@ -58,8 +58,8 @@ h2 {
 
 p {
   font-size: 1em;
-  line-height: 1.25;
-  margin: $vertical-beat 0;
+  line-height: 1.875;
+  margin: #{$vertical-beat * 2} 0;
   a {
     font-weight: 700;
     &:hover {

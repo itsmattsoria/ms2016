@@ -1,18 +1,18 @@
 // Generic Pages
 
 .site-main {
-  opacity: 0;
-  &.-animate {
-    animation: fadeInBottom 1s forwards .5s;
-  }
-
   h3 {
     @extend .h2;
   }
 }
 
 section {
+  opacity: 0;
   margin: #{$vertical-beat * 3} 0;
+  
+  &.-animate {
+    animation: fadeInBottom 1s forwards .5s;
+  }
 
   &.has-anchor {
     .section-title {

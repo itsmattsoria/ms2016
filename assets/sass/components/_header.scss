@@ -25,7 +25,7 @@
       text-decoration: none;
     }
     &.-animate {
-      animation: fadeInLeft 2s forwards;
+      animation: fadeInLeft 1s forwards;
     }
   }
 
@@ -37,7 +37,7 @@
     font-weight: normal;
     margin: $vertical-beat 0 0;
     &.-animate { 
-      animation: fadeInLeft 2s .5s forwards;
+      animation: fadeInLeft 1s .25s forwards;
     }
   }
 

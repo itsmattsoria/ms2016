@@ -35,10 +35,34 @@ var Main = (function($) {
         $('.header-gradient').css('background-image', 'linear-gradient(to bottom, rgba(0,0,0,0), '+colorSchemePrimary+' 99%)');
 
         $('body').removeClass('loading');
+
         setTimeout(function() {
-          $('.animate-me').addClass('-animate');
-        }, 1000);
+          if (!$('html').is('.wf-active')) {        
+            try {
+              Typekit.load({
+                active: function() {
+                  console.log('howdy!');
+                  _initAnimations();
+                }
+              })
+            } catch(e) {}
+          } else {
+            console.log('poop');
+            _initAnimations();
+          }
+        },0);
       }
+    });
+  }
+
+  function _initAnimations() {
+    $('.animate-me').each(function() {
+      new Waypoint.Inview({
+        element: this,
+        enter: function() {
+          $(this.element).addClass('-animate');
+        }
+      });
     });
   }
 
