@@ -37,19 +37,7 @@ var Main = (function($) {
         $('body').removeClass('loading');
 
         setTimeout(function() {
-          if (!$('html').is('.wf-active')) {        
-            try {
-              Typekit.load({
-                active: function() {
-                  console.log('howdy!');
-                  _initAnimations();
-                }
-              })
-            } catch(e) {}
-          } else {
-            console.log('poop');
-            _initAnimations();
-          }
+          _initAnimations();
         },0);
       }
     });

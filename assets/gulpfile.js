@@ -5,6 +5,7 @@ var gulp = require('gulp'),
     sass = require('gulp-ruby-sass'),
     autoprefixer = require('gulp-autoprefixer'),
     minifycss = require('gulp-minify-css'),
+    critical = require('critical'),
     jshint = require('gulp-jshint'),
     uglify = require('gulp-uglify'),
     rename = require('gulp-rename'),
@@ -41,6 +42,20 @@ gulp.task('styles', function() {
     .pipe(minifycss())
     .pipe(gulp.dest('css'))
     .pipe(browserSync.stream());
+});
+
+// Inline critical css
+gulp.task('critical', function() {
+  critical.generate({
+      inline: true,
+      base: '../',
+      css: ['css/main.css'],
+      src: 'index.html',
+      dest: '../index.html',
+      minify: true,
+      width: 1300,
+      height: 900
+  });
 });
 
 // Javascript concatenation
