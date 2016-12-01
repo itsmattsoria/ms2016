@@ -33,6 +33,8 @@
 - 5.9+ (L) - flash
 - 5.10B - flash
   + The purple babyhead route in the corner, so much fun!
+- 5.10C
+  + Red one near the babyhead route — overhung, some pretty challenging reaches, had to take once 3/4 of the way to the top
 - 5.10A/B - flash
 - 5.10C - fail
   + Super fun mantel start, got stuck in the roof corner
