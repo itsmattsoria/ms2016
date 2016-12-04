@@ -46,3 +46,16 @@
   + The purple babyhead again, slipped at the crux, but still felt good
 - 5.11A
   + Yellow route on the short wall. Really struggled through it, but felt great and technical
+
+#### 12.02.16 - BKB
+- A little bouldering
+- 5.10A
+
+#### 12.03.16 - BKB
+- 5.10A/B
+  + Pink, on a corner, quite easy technically, but pumpy. Not a fan.
+- 5.10B (L)
+  + The purple babyhead again — this time on lead, felt good!
+- 5.10C
+  + Second attempt at the corner blue 10.C — struggled through the same move, but got through it. I needed to get my right hand up before my left, then right foot up. Very fun — need to revisit.
+
