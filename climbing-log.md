@@ -29,13 +29,13 @@
     + Definitely on the 10A side, not super technical for most of it, just overhung and pumpy, and the end hits you with some two/three-finger pulls that felt more technical. Really fun route though!
 
 #### 11.29.16 — BKB
-- 5.9 (L) - flash
-- 5.9+ (L) - flash
-- 5.10B - flash
+- 5.9 (L) - on-sight
+- 5.9+ (L) - scend
+- 5.10B - on-sight
   + The purple babyhead route in the corner, so much fun!
 - 5.10C
   + Red one near the babyhead route — overhung, some pretty challenging reaches, had to take once 3/4 of the way to the top
-- 5.10A/B - flash
+- 5.10A/B - on-sight
 - 5.10C - fail
   + Super fun mantel start, got stuck in the roof corner
 
@@ -52,19 +52,19 @@
 - 5.10A
 
 #### 12.03.16 - BKB
-- 5.10A/B
+- 5.10A/B - on-sight
   + Pink, on a corner, quite easy technically, but pumpy. Not a fan.
-- 5.10B (L)
+- 5.10B (L) - scend
   + The purple babyhead again — this time on lead, felt good!
 - 5.10C
   + Second attempt at the corner blue 10.C — struggled through the same move, but got through it. I needed to get my right hand up before my left, then right foot up. Very fun — need to revisit.
 
 #### 12.04.16 - BKB
-- 5.8 - flash
-- 5.10A - flash
-- 5.10A - flash
-- 5.10B - flash
+- 5.8 - on-sight
+- 5.10A - scend
+- 5.10A - on-sight
+- 5.10B - on-sight
   + This one was pretty fun — black auto on the tower
 - 5.11B - fail
   + Failed pretty quickly on this one — fourth move I think. It will be a project.
-- 5.9 - flash 
+- 5.9 - on-sight
