@@ -59,3 +59,12 @@
 - 5.10C
   + Second attempt at the corner blue 10.C — struggled through the same move, but got through it. I needed to get my right hand up before my left, then right foot up. Very fun — need to revisit.
 
+#### 12.04.16 - BKB
+- 5.8 - flash
+- 5.10A - flash
+- 5.10A - flash
+- 5.10B - flash
+  + This one was pretty fun — black auto on the tower
+- 5.11B - fail
+  + Failed pretty quickly on this one — fourth move I think. It will be a project.
+- 5.9 - flash 
