@@ -68,3 +68,32 @@
 - 5.11B - fail
   + Failed pretty quickly on this one — fourth move I think. It will be a project.
 - 5.9 - on-sight
+
+#### 12.11.16 - BKB
+- v1
+- v2
+- v3 (that tricky red one, but I scent it)
+- v3
+  + green one, fun
+- v3 
+  + purple one, hard start, rest is easy
+- v2
+- v2
+- v3 - fail
+  + pueple in the cave, need to get this one fresh!
+- v3 - fail
+  + red one to the left of the cave, need to approach it fresh too
+- v2
+- v3 - fail
+  + red, balancy, need to try this again
+- v3 - onsight
+  + purple, not too bad, fun
+
+#### 12.12.16 - BKB
+- 5.9 (L)
+- 5.10B (L)
+  + Gotta love that purple baby head
+- 5.10A/B (L)
+  + Purple on the tower with an overhang, had to take twice, but it was fun, felt good
+- 5.10C
+  + Purple on the corner of the tower, had to take once, and then crushed through the rest, thought it was pretty fun
