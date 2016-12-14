@@ -97,3 +97,10 @@
   + Purple on the tower with an overhang, had to take twice, but it was fun, felt good
 - 5.10C
   + Purple on the corner of the tower, had to take once, and then crushed through the rest, thought it was pretty fun
+
+#### 12.13.16 - BKB
+- Various easeier bouldering
+- 5.11A/B - fail
+  + Black one behind the tower, with a sizable overhang — got to the overhang fine, couldn't stick the move on the overhang. Should try again.
+- 5.10D - Onsight
+  + On the short wall. Felt strong on this, was fun! 
