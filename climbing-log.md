@@ -30,7 +30,7 @@
 
 #### 11.29.16 — BKB
 - 5.9 (L) - on-sight
-- 5.9+ (L) - scend
+- 5.9+ (L)
 - 5.10B - on-sight
   + The purple babyhead route in the corner, so much fun!
 - 5.10C
@@ -54,14 +54,14 @@
 #### 12.03.16 - BKB
 - 5.10A/B - on-sight
   + Pink, on a corner, quite easy technically, but pumpy. Not a fan.
-- 5.10B (L) - scend
+- 5.10B (L)
   + The purple babyhead again — this time on lead, felt good!
 - 5.10C
   + Second attempt at the corner blue 10.C — struggled through the same move, but got through it. I needed to get my right hand up before my left, then right foot up. Very fun — need to revisit.
 
 #### 12.04.16 - BKB
 - 5.8 - on-sight
-- 5.10A - scend
+- 5.10A
 - 5.10A - on-sight
 - 5.10B - on-sight
   + This one was pretty fun — black auto on the tower
@@ -104,3 +104,13 @@
   + Black one behind the tower, with a sizable overhang — got to the overhang fine, couldn't stick the move on the overhang. Should try again.
 - 5.10D - Onsight
   + On the short wall. Felt strong on this, was fun! 
+
+#### 12.14.16 - FA
+- 5.10B - Onsight
+  + White one with the long turd start, which was fun, but the rest was pretty vertical and boring
+- 5.10C - Redpoint
+  + The red one, my favorite! So much mindful moves, manteling, and splits and balancing — ugh, my favorite!
+- 5.10B
+  + Yellow one in the corner, sliped on the very last move!!! Pretty fun though.
+- 5.11A
+  + Blue one with the gnarly big donut on the overhang. This was really fun. Took three times — once I slipped and I know I can get through that, then at the overhang, which after doing it, I think I can get through it too, and then once at the top, which was from just being pumped.
