@@ -106,7 +106,7 @@
   + On the short wall. Felt strong on this, was fun! 
 
 #### 12.14.16 - FA
-- 5.10B - Onsight
+- 5.10B - on-sight
   + White one with the long turd start, which was fun, but the rest was pretty vertical and boring
 - 5.10C - Redpoint
   + The red one, my favorite! So much mindful moves, manteling, and splits and balancing — ugh, my favorite!
@@ -116,26 +116,26 @@
   + Blue one with the gnarly big donut on the overhang. This was really fun. Took three times — once I slipped and I know I can get through that, then at the overhang, which after doing it, I think I can get through it too, and then once at the top, which was from just being pumped.
 
 #### 12.17.16 - FA
-- 5.9 - Onsight
+- 5.9 - on-sight
   + Black auto
-- 5.10B - Onsight
+- 5.10B - on-sight
   + Red one on the back wall , with the two rooves
 - 5.10C (L)
   + White one on the big scary wall — super fun! I z-clipped on the second bolt.
 
 #### 12.19.16 - BKB
-- 5.10A - Flash
+- 5.10A (L) - Flash
   + Easy peasy, but fun
-- 5.10B
+- 5.10B (L)
   + Yellow one on BKB's big scary wall, on the corner — quite fun! Had to take a few times.
-- 5.10C
+- 5.10C (L)
   + Failed, quick. Had an off night
 
 #### 12.20.16 - FA
-- 5.10B - Onsight
+- 5.10B - on-sight
 - 5.10C
   + Black one, I thought it was really fun. Missed some holds hiding around a corner that got me, otherwise I think I could flash it
-- 5.10C
+- 5.10C (L)
   + The same white one on the big wall. Did much better this time, but still had to take twice
 - 5.10B
   + Same red one as the other day.
