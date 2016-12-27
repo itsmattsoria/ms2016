@@ -139,3 +139,21 @@
   + The same white one on the big wall. Did much better this time, but still had to take twice
 - 5.10B
   + Same red one as the other day.
+
+#### 12.23.16 - BKB
+- 5.10A
+- 5.9
+- 5.10B
+- 5.11B - Fail
+  + Blue auto, made a little progress here, hope to tackle it
+- 5.10A
+
+#### 12.24.16 - FA
+- 5.9
+- 5.11A - Fail
+  + Black auto route, fun, really wanna get this one
+- 5.10B (L) - on-sight
+- 5.10C (L)
+  + The white one on the big wall — made some progress, only had to take once. I'll get it next time.
+- 5.11C (L) - fail
+  + Just wanted to attempt it, feel pretty good about getting even 1/3 up it. Maybe I'll tackle it eventually.
