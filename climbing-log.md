@@ -157,3 +157,20 @@
   + The white one on the big wall — made some progress, only had to take once. I'll get it next time.
 - 5.11C (L) - fail
   + Just wanted to attempt it, feel pretty good about getting even 1/3 up it. Maybe I'll tackle it eventually.
+
+#### 12.27.16
+
+##### BKB
+- 10A (auto)
+- 10B (auto)
+
+##### FA
+- 10A (L) - flash
+- 10C (L)
+  + That white one on the big wall again — only took once, after tweaking my right shoulder, which I think I need to stretch and take extra care of
+- 11A (L)
+  + The blue route with the big donut. I had to take many times, but I'm still proud of having done it on lead.
+- 11A (auto)
+  + The black auto route, I tried a bunch, kept falling at the small finger pocket, but I got the route down up to that point solid, and I feel good about it. Still got stuck on the overhang though.
+- 11B - fail
+  + Yellow route, really challenging with a pretty dynamic move that took me about 10 attempts to stick, and I gave up 3/4 of the way up cause it was closing time and I had little energy left in me. Will try again.
