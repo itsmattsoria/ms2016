@@ -174,3 +174,12 @@
   + The black auto route, I tried a bunch, kept falling at the small finger pocket, but I got the route down up to that point solid, and I feel good about it. Still got stuck on the overhang though.
 - 11B - fail
   + Yellow route, really challenging with a pretty dynamic move that took me about 10 attempts to stick, and I gave up 3/4 of the way up cause it was closing time and I had little energy left in me. Will try again.
+
+#### FA
+- 10A - flash
+- 10A (L)
+  + The white one on the arch — I would love to get this one clean. Really fun.
+- 11C (L) - fail
+  + Red one on the big wall that I tried before — I got over the top roof and a few clips from the end, but cheated on the last clip, and really wanna get through this one!
+- 10B - on-sight
+  + The black one on the tower, this one was pretty fun — lots of movement 
