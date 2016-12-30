@@ -175,11 +175,21 @@
 - 11B - fail
   + Yellow route, really challenging with a pretty dynamic move that took me about 10 attempts to stick, and I gave up 3/4 of the way up cause it was closing time and I had little energy left in me. Will try again.
 
-#### FA
+#### 12.28.16 - FA
 - 10A - flash
 - 10A (L)
   + The white one on the arch — I would love to get this one clean. Really fun.
 - 11C (L) - fail
   + Red one on the big wall that I tried before — I got over the top roof and a few clips from the end, but cheated on the last clip, and really wanna get through this one!
 - 10B - on-sight
-  + The black one on the tower, this one was pretty fun — lots of movement 
+  + The black one on the tower, this one was pretty fun — lots of movement
+
+#### 12.29.16 - BKB
+- 10A - on-sight
+- 10C - fail
+  + The blue corner route that got me before — I couldn't get through the crux again! Super frustrating!
+- V1
+- V2
+- V3 - fail
+- V4
+  + The red one with the dyno — took me a few tries, but I got it, and boy did it feel good!
