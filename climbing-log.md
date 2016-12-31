@@ -193,3 +193,9 @@
 - V3 - fail
 - V4
   + The red one with the dyno — took me a few tries, but I got it, and boy did it feel good!
+
+#### 12.30.16 - BKB
+- 10A (auto)
+- 10B (auto)
+- 11B (auto) - fail
+  + Same route I've been working on. Made some good progress on it though, got a few movements past where I was previously.
