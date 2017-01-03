@@ -161,32 +161,32 @@
 #### 12.27.16
 
 ##### BKB
-- 10A (auto)
-- 10B (auto)
+- 5.10A (auto)
+- 5.10B (auto)
 
 ##### FA
-- 10A (L) - flash
-- 10C (L)
+- 5.10A (L) - flash
+- 5.10C (L)
   + That white one on the big wall again — only took once, after tweaking my right shoulder, which I think I need to stretch and take extra care of
-- 11A (L)
+- 5.11A (L)
   + The blue route with the big donut. I had to take many times, but I'm still proud of having done it on lead.
-- 11A (auto)
+- 5.11A (auto)
   + The black auto route, I tried a bunch, kept falling at the small finger pocket, but I got the route down up to that point solid, and I feel good about it. Still got stuck on the overhang though.
-- 11B - fail
+- 5.11B - fail
   + Yellow route, really challenging with a pretty dynamic move that took me about 10 attempts to stick, and I gave up 3/4 of the way up cause it was closing time and I had little energy left in me. Will try again.
 
 #### 12.28.16 - FA
-- 10A - flash
-- 10A (L)
+- 5.10A - flash
+- 5.10A (L)
   + The white one on the arch — I would love to get this one clean. Really fun.
-- 11C (L) - fail
+- 5.11C (L) - fail
   + Red one on the big wall that I tried before — I got over the top roof and a few clips from the end, but cheated on the last clip, and really wanna get through this one!
-- 10B - on-sight
+- 5.10B - on-sight
   + The black one on the tower, this one was pretty fun — lots of movement
 
 #### 12.29.16 - BKB
-- 10A - on-sight
-- 10C - fail
+- 5.10A - on-sight
+- 5.10C - fail
   + The blue corner route that got me before — I couldn't get through the crux again! Super frustrating!
 - V1
 - V2
@@ -195,7 +195,29 @@
   + The red one with the dyno — took me a few tries, but I got it, and boy did it feel good!
 
 #### 12.30.16 - BKB
-- 10A (auto)
-- 10B (auto)
-- 11B (auto) - fail
+- 5.10A (auto)
+- 5.10B (auto)
+- 5.11B (auto) - fail
   + Same route I've been working on. Made some good progress on it though, got a few movements past where I was previously.
+
+#### 12.31.16 - BKB
+- 5.10AB
+- 5.9 (L) - on-sight
+- 5.10D (L) - fail
+- 5.10C (L)
+
+#### 01.02.16 - FA
+- 5.9
+- 5.10B
+- 5.10C
+  + The yellow corner route — got close to flashing, but slipped. Really fun!
+- 5.11A
+  + The blue one — almost sent it, but slipped at the crux.
+- 5.11A
+  + Purple one filled with slopers — almost flashed, and then fell at the crux one hold from the top and just couldn't stick it — it took me a ton of tries to get.
+- 5.10D - flash
+  + White one in the corner of the front-facing roof section — I really loved this one. Had to go really slow and take my time, but it felt really good.
+- V4
+- v3
+- v3 - fail
+- v2 - fail
