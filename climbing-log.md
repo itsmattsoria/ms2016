@@ -206,7 +206,7 @@
 - 5.10D (L) - fail
 - 5.10C (L)
 
-#### 01.02.16 - FA
+#### 01.02.17 - FA
 - 5.9
 - 5.10B
 - 5.10C
@@ -221,3 +221,40 @@
 - v3
 - v3 - fail
 - v2 - fail
+
+#### 1.14.17 - FA
+- 5.10B
+- 5.10C
+  + Blue one on the tower — didn't send, slipped at a awkward sequence
+- 5.11C
+  + White corner route — super fun! I didn't send it, there were two or three spots I fell at, and the last sequence killed me until I mantelled the wall. Wanna do it better next time, but it's been there for a long time
+- 5.11A
+  + Slipped once, but damn, this was super fun — just had to move really slowly
+
+#### 1.15.17 - BKB
+- 5.10A - on-sight
+  + Holy shit, this was the hardest 10A I've ever done. I did it, but man, it caught me off guard.
+- 5.10C
+  + The new green one — really awkward and a bit crimpy near the top, fell twice.
+
+#### 1.16.17 - BKB
+- 5.10B
+- 5.10D - redpoint
+  + Green auto, took me a few attempts before I could get it, felt good though.
+- 5.11B - fail
+  + Blue auto, still working on it, but making some progress. Just one more move and I think I can get it.
+
+#### 1.24.17 - FA
+- 5.10B/5.11A
+- 5.10B (L) flash
+- 5.10B (L)
+- 5.10B (L)
+
+#### 1.26.17 - BKB
+- 5.10- on-sight
+- 5.10D
+  + Really got my ass kicked on this one. Bunch of worm holds.
+- 5.10-
+  + Red one, pretty fun, and I'd love to send it clean.
+- 5.10B on-sight
+  + Pink corner route, pretty fun
