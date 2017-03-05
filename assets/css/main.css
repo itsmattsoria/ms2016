@@ -928,6 +928,6 @@ section ul {
 .page.lists ol li a:hover, .page.lists ol li a:focus {
   font-style: italic;
 }
-.page.lists li.completed a {
+.page.lists li.completed {
   text-decoration: line-through;
 }
