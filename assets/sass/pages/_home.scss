@@ -58,8 +58,8 @@
       margin: 0;
       padding: 0;
       @include media-md {
-        columns: 2;
-        column-gap: 60px;
+        display: flex;
+        flex-wrap: wrap;
       }
 
       li {
@@ -67,7 +67,14 @@
         break-inside: avoid;
         padding-bottom: $vertical-beat;
         @include media-md {
+          max-width: 50%;
+          flex-basis: 50%;
+          padding-right: 30px;
           padding-bottom: #{$vertical-beat * 2};
+          &:nth-child(even) {
+            padding-right: 0;
+            padding-left: 30px;
+          }
         }
 
         h4 {

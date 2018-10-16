@@ -793,12 +793,10 @@ section ul {
 }
 @media screen and (min-width: 700px) {
   .page.home section.recent-work ul {
-    -webkit-columns: 2;
-       -moz-columns: 2;
-            columns: 2;
-    -webkit-column-gap: 60px;
-       -moz-column-gap: 60px;
-            column-gap: 60px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
   }
 }
 .page.home section.recent-work ul li {
@@ -810,7 +808,15 @@ section ul {
 }
 @media screen and (min-width: 700px) {
   .page.home section.recent-work ul li {
+    max-width: 50%;
+    -ms-flex-preferred-size: 50%;
+        flex-basis: 50%;
+    padding-right: 30px;
     padding-bottom: 20px;
+  }
+  .page.home section.recent-work ul li:nth-child(even) {
+    padding-right: 0;
+    padding-left: 30px;
   }
 }
 .page.home section.recent-work ul li h4 {
