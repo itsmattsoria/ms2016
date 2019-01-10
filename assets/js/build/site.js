@@ -1025,6 +1025,7 @@ var Main = (function($) {
         var colorSchemePrimary = data.color;
 
         $('.header-gradient').css('background-image', 'linear-gradient(to bottom, rgba(0,0,0,0), '+colorSchemePrimary+' 99%)');
+        $('.about-image-wrap').css('background-color', colorSchemePrimary);
 
         $('body').removeClass('loading');
 

@@ -1,6 +1,18 @@
 // Home page
 
 .page.home {
+  // Light/Dark Variations on the about image
+  &.ab-light {
+    .about-image {
+      mix-blend-mode: multiply;
+    }
+  }
+  &.ab-dark {
+    .about-image {
+      mix-blend-mode: screen;
+    }
+  }
+
   .about-image {
     width: 100%;
     display: block;
@@ -12,14 +24,16 @@
     .about-image-wrap {
       position: relative;
       margin-bottom: 30px;
-      .caption {
+      figcaption {
         margin: 0;
+        z-index: 1;
+        color: $tan;
         right: 30px;
         bottom: 30px;
         line-height: 1;
         font-size: 10px;
         position: absolute;
-        color: rgba($tan,.5);
+        mix-blend-mode: exclusion;
       }
     }
     .about-image {
