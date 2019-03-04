@@ -749,13 +749,13 @@ section ul {
 .page.home section.about .about-image-wrap figcaption {
   margin: 0;
   z-index: 1;
-  color: #f8e5c9;
   right: 30px;
   bottom: 30px;
+  color: #f8e5c9;
   line-height: 1;
   font-size: 10px;
   position: absolute;
-  mix-blend-mode: exclusion;
+  background-color: #4f433c;
 }
 .page.home section.about .about-image {
   vertical-align: top;
