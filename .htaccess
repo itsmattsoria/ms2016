@@ -26,9 +26,3 @@
     ExpiresByType application/x-icon "access plus 1 year"
 </IfModule>
 # END EXPIRES
-
-# FOR ENABLING HTTP/2
-Action php_custom /my_php.cgi
-<FilesMatch .php$>
-    SetHandler php_custom
-</FilesMatch>
