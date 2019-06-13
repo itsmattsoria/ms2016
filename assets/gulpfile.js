@@ -51,7 +51,7 @@ gulp.task('critical', function() {
       base: '../',
       css: ['css/main.css'],
       src: 'index.html',
-      dest: '../index.html',
+      dest: 'index.html',
       minify: true,
       width: 1300,
       height: 900

@@ -809,9 +809,8 @@ section ul {
 }
 .page.home section.recent-work ul li {
   list-style: none;
-  -webkit-column-break-inside: avoid;
-     page-break-inside: avoid;
-          break-inside: avoid;
+  page-break-inside: avoid;
+       break-inside: avoid;
   padding-bottom: 10px;
 }
 @media screen and (min-width: 700px) {
@@ -858,6 +857,10 @@ section ul {
 }
 .page.home section.recent-work ul li p {
   margin: 0;
+}
+.page.home section.recent-work ul li p.accolade a {
+  font-size: .85em;
+  font-weight: 500;
 }
 
 .page.internal .site-header {

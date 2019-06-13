@@ -126,6 +126,13 @@
         }
         p {
           margin: 0;
+
+          &.accolade {
+            a {
+              font-size: .85em;
+              font-weight: 500;
+            }
+          }
         }
       }
     }
