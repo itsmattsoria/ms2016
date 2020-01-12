@@ -4,7 +4,7 @@ import os
 env.hosts = ['opal4.opalstack.com']
 env.user = 'soriamatt'
 env.path = '~/Sites/ms2016'
-env.remotepath = '/home/soriamatt/apps/ms2016'
+env.remotepath = '/home/soriamatt/apps/ms2016static'
 env.git_branch = 'master'
 env.warn_only = True
 env.remote_protocol = 'http'
